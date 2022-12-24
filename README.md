@@ -25,7 +25,8 @@ result=np.linalg.solve(a,b)
 print(result)
 ```
 ## Output:
-![OUTPUT](/images/system.png)
+![OUTPUT](/image/system.png)
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
